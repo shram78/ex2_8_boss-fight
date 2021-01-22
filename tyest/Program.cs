@@ -135,7 +135,7 @@ namespace ex2_8_boss_fight
                             healthMage -= 25;
                             healthBoss -= 50;
                         }
-                        else 
+                        else
                         {
                             Console.WriteLine($"Конечно, это не твой последний шанс, ведь у тебя еще осталось: Хилка: {spellHealthRegenerationCount} шт.," +
                                 $" Файрболов: {spellFireBallCount} шт., Обездвиживание нежити: {spellSpiderwebSpellsCount} шт.");
@@ -168,7 +168,7 @@ namespace ex2_8_boss_fight
                 {
                     Console.WriteLine($"Босс едва задевает тебя, нанося царапину на {damageBoss} жизней");
                 }
-                else if (damageBoss >15 && damageBoss <= 25)
+                else if (damageBoss > 15 && damageBoss <= 25)
                 {
                     Console.WriteLine($"Босс наносит удар огромной дубиной по твоему хребту, нанося урон в {damageBoss} жизней");
                 }

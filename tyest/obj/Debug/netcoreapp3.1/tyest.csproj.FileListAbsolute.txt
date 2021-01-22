@@ -1,0 +1,13 @@
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.exe
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.deps.json
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.runtimeconfig.json
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.runtimeconfig.dev.json
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.dll
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\bin\Debug\netcoreapp3.1\tyest.pdb
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.csprojAssemblyReference.cache
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.AssemblyInfoInputs.cache
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.AssemblyInfo.cs
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.dll
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.pdb
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\tyest\obj\Debug\netcoreapp3.1\tyest.genruntimeconfig.cache

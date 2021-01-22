@@ -1,0 +1,14 @@
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.csprojAssemblyReference.cache
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.csproj.CoreCompileInputs.cache
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.exe.config
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.exe
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.pdb
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.exe
+D:\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.pdb
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.exe.config
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.exe
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\bin\Debug\ex2_8_boss fight.pdb
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.csprojAssemblyReference.cache
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.exe
+D:\YandexDisk\Компьютер LAPTOP-RPSUATSN\iJunior\ex2\ex2_8_boss fight\ex2_8_boss fight\obj\Debug\ex2_8_boss fight.pdb
