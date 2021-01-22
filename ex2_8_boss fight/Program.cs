@@ -29,7 +29,7 @@ namespace ex2_8_boss_fight
             {
                 Console.Clear();
                 roundIterationCount++;
-                Console.WriteLine($"\t\t\tНачался раунд {roundIterationCount}\n");
+                Console.WriteLine($"\t\t\tНачалсяzz раунд {roundIterationCount}\n");
                 Console.WriteLine("МАГ\t\t\t\t\t БОСС");
                 Console.WriteLine();
                 for (int i = 0; i < healthMage / 10; i++)
